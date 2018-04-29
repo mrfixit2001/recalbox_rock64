@@ -31,6 +31,8 @@ Some important notes:
  - Sometimes when the image first boots there can be a delay. Please be patient and let this complete. It should not happen on every boot.
  - We highly recommend that you install a heatsink on the board. The temp without a heatsink sit at 76*C when in EmulationStation - which is just 4*C under thermal throttling. With a heatsink - even a poor one - the temps are at approx. 66*C and around 73*C when playing mariokart (24*C ambient temp). 
 
-Lastly, please remember this community isn't funded. There's no pressure at all, but if you appreciate the community work then feel free to send me a buck on paypal at mrfixit2001 at gmail.
+The alpha release is just the compiled image at this time while the source is cleaned up and organized in preparation to be made available for the recalbox team to maintain. The source code will be added to this same repository as soon as possible. 
+
+Lastly, please remember this is a community build, and just something I've worked on in my free time. There's no pressure at all, but if you appreciate the work then feel free to send me a buck on paypal: mrfixit2001 at gmail.
 
 Special thanks go out to Substring at Recalbox and LukasZ at Pine64 for all their efforts in testing and feedback!
