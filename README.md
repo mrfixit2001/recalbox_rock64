@@ -2,6 +2,8 @@ ANNOUNCING RECALBOX FOR THE ROCK64 - ALPHA RELEASE
 
 After many efforts with much teamwork, collaboration, and testing, we are very excited to provide the ALPHA release of RECALBOX for the ROCK64 board! 
 
+The download is located under the Releases link.
+
 For those of you unfamiliar with the software:
 https://www.recalbox.com/
 "Recalbox offers a wide selection of consoles and game systems. From the very first arcade systems to the NES, the MEGADRIVE, 32-bit platforms (such as the Playstation) and even Nintendo64. With Kodi already includeed, Recalbox also serves as a Media Center. By connecting it to your home network, you will be able to stream videos from any compatible devices (NAS, PC, External HDD, etc.)."
