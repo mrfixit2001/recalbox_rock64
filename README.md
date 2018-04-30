@@ -2,7 +2,7 @@ ANNOUNCING RECALBOX FOR THE ROCK64 - ALPHA RELEASE
 
 After many efforts with much teamwork, collaboration, and testing, we are very excited to provide the ALPHA release of RECALBOX for the ROCK64 board! 
 
-* The download is located under the Releases link *
+-- The download is located under the Releases link --
 
 Details on the ROCK64 SoC can be found here:
 https://www.pine64.org/?page_id=7147
