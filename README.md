@@ -33,23 +33,23 @@ Some things we have added to Recalbox that are Rock64 Exclusive:
 
 Improvements since Alpha:
  -  Most Bluetooth and Wifi adapters will now work, including these which are 2-in-1 so that you only need to use one USB port to add both Wifi AND BT:
-    o    https://www.amazon.com/Wireless-Bluetooth-Adapter-Supports-OS10-9-10-13/dp/B01JYE5BT2/ref=sr_1_2_sspa?ie=UTF8&qid=1532357324&sr=8-2-spons&keywords=wifi+bluetooth+adapter&psc=1
-    o    https://www.amazon.com/Edimax-EW-7611ULB-Wi-Fi-Bluetooth-Adapter/dp/B01KVZB3A4/ref=sr_1_4?ie=UTF8&qid=1532357324&sr=8-4&keywords=wifi+bluetooth+adapter
+    - https://www.amazon.com/Wireless-Bluetooth-Adapter-Supports-OS10-9-10-13/dp/B01JYE5BT2/ref=sr_1_2_sspa?ie=UTF8&qid=1532357324&sr=8-2-spons&keywords=wifi+bluetooth+adapter&psc=1
+    - https://www.amazon.com/Edimax-EW-7611ULB-Wi-Fi-Bluetooth-Adapter/dp/B01KVZB3A4/ref=sr_1_4?ie=UTF8&qid=1532357324&sr=8-4&keywords=wifi+bluetooth+adapter
  -  Boot from all storage mediums (SD, eMMC and USB) is now supported
  -  Overclocking options from the ES menu (NOTE: we highly suggest active cooling if you don’t use default)
  -  Updated versions of retroarch and most emulators + cores
  -  All emulators working - including PSP, Dreamcast, and Amstrad
  -  Additional Emulators Included:
-    o    virtualjaguar
-    o    uae
-    o    theodore
-    o    pocketsnes
-    o    melonds
-    o    desmume
-    o    beetle-psx
-    o    4do
-    o    hypseus
-    o    vice
+    - virtualjaguar
+    - uae
+    - theodore
+    - pocketsnes
+    - melonds
+    - desmume
+    - beetle-psx
+    - 4do
+    - hypseus
+    - vice
  -  Included Wolfenstein 3D (shareware version) in DosBox
  -  LED blinking with disk activity
  -  KODI 4K 60FPS with kwiboo’s HDR enhancement
