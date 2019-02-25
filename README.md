@@ -7,6 +7,10 @@ After many efforts with much teamwork, collaboration, and testing, we are very e
 -- The download is located under this repository's releases -- 
 https://github.com/mrfixit2001/recalbox_rock64/releases
 
+MrFixIt's custom kernel source is available here: https://github.com/mrfixit2001/rockchip-kernel
+
+Recalbox's source is available on their repo: https://gitlab.com/recalbox
+
 Details on the ROCK64 SoC can be found here: 
 https://www.pine64.org/?page_id=7147
 
