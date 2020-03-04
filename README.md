@@ -1,6 +1,7 @@
-***THIS REPO IS ARCHIVED - FIND THE LATEST RELEASE HERE: https://github.com/mrfixit2001/recalbox-rockchip***
-
-
+* **THIS REPO IS ARCHIVED - FIND THE LATEST RELEASE HERE: https://github.com/mrfixit2001/recalbox-rockchip** *
+ 
+ 
+ 
 ANNOUNCING THE UPDATED BETA - RELEASE 3 OF RECALBOX FOR THE ROCK64
 
 The details on the previous ROCK64 releases can be found here: https://forum.pine64.org/showthread.php?tid=6351
